@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Applying Graph Convolutional Networks to Model Competition"
+excerpt: "Modeling competitive dynamics in intercorrelated time-series<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I applied Graph Convolutional Layer (GC) in combination with different foreasting layers (TFT, LSTM) to model competitive dynamics in intercorrelated time-series data of Google paid search Cost-per-Click (CPC).
