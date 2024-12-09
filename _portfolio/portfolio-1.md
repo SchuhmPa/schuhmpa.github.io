@@ -1,6 +1,6 @@
 ---
 title: "Applying Graph Convolutional Networks to Model Competition"
-excerpt: "Modeling competitive dynamics in intercorrelated time-series<br/><img src='/images/500x300.png'>"
+excerpt: "Succesfull Approach for modeling competitive dynamics in intercorrelated time-series<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
