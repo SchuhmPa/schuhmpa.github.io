@@ -21,12 +21,12 @@ repository               : "schuhmpa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilePaul.png"
   name             : "Paul Schuhmann"
   pronouns         : # example: "she/her"  
   bio              : "Passionate about Data Science and Data Driven Decision-Making"
   location         : "Germany"
-  employer         : "Business Analytics at NOVA SBE"
+  employer         : "Business Analytics @ NOVA SBE"
   uri              : # URL
   email            : "@gmail.com" 
 
